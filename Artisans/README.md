@@ -3,7 +3,7 @@
 
   Artisans is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/Bhagyawardhan08/Artisans"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/Himanshi45/E-COM_ARTISANS"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -23,18 +23,15 @@ To run **Glowing** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Bhagyawardhan08/Artisans.git
+sudo git clone https://github.com/Himanshi45/E-COM_ARTISANS.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Bhagyawardhan08/Artisans.git
+git clone https://github.com/Himanshi45/E-COM_ARTISANS.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/bhagyawardhan08).
 
 ### License
 
